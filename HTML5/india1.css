@@ -1,0 +1,33 @@
+caption {
+    background:linear-gradient(to right, red, blue);
+	color:white;
+    font-size: 18px;
+}
+
+table{
+    width: 75%;
+    height: auto;
+    margin: auto;
+    border-collapse: collapse;
+}
+table tr:nth-child(even)
+{
+    background: cyan;
+    color: blue;
+}
+
+table tr:nth-child(odd)
+{
+    background: blue;
+    color: cyan;
+}
+
+table tr:first-child {
+    background: orangered;
+    color: black;
+}
+
+table tr:hover {
+    background: palegreen;
+    color: black;
+}
