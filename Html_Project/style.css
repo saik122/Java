@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    
+}
+header{
+    background-image: url("https://img.freepik.com/free-photo/delicious-dessert-table_23-2150857740.jpg?size=626&ext=jpg&ga=GA1.1.2084175817.1683550881&semt=sph");background-attachment: fixed; background-size: 100% 100%; background-repeat: no-repeat;
+    padding: 50px;
+    color: white;
+    text-align: right;
+}
+header img{
+    margin: 50px;
+    text-align: center;
+
+}
+header a{
+    color: white;
+    padding: 25px;
+    font-size: 25px;
+    text-decoration: none;
+    
+}
+header a:hover{
+    background-color: whitesmoke;
+    color: black;
+    
+   
+}
+nav{
+   background-color: orange;
+   padding: 10px;
+   
+}
+nav a{
+    text-decoration: none;
+    padding: 15px;
+    display: inline-block;
+    font-size: 20px;
+    color: white;
+    
+}
+   nav a:hover{
+    background-color: black;
+   }
+
+   h4{
+    font-size: 30px;
+    margin-top: 20px;
+    text-align: left;
+    
+   }
+.firstorder img{
+    border-radius: 60%;
+    display: inline-block;
+    padding: 10px 20px;
+    
+}
+.firstorder p{
+    font-size: 15px;
+    display: inline-block;
+    
+    
+}
+
+.mysection{
+    padding: 40px;
+    background-image: url("https://img.freepik.com/free-vector/fireworks-new-year-2020_23-2148336357.jpg?size=626&ext=jpg&ga=GA1.1.2084175817.1683550881&semt=ais");
+     color: white;
+     margin-bottom: 10px;
+     background-attachment: fixed;
+
+     background-position: 100%;
+     
+  
+}
+p{
+    margin: 10px;
+    font-size: 25px;
+    
+    
+}
+h2{
+    color: white;
+}
+
+
+
+.section figure{
+box-shadow: 0 0 10px black;
+width: 300px;
+display: inline-block;
+margin-top: 30px;
+padding: 10px;
+margin: 20px;
+}
+.section img{
+    
+    width: 100%;
+}
+.section figure:hover{
+    background-color: lightgray;
+}
+.section p{
+    text-align: left;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+
+
+.brands{
+    font-size: 40px;
+    margin-top: 40px;
+    background-color: lightgray;
+    margin-bottom: 40px;
+    padding:10px 20px;
+}
+
+.brands img{
+    padding: 10px 30px;
+    display: inline-block;
+}
+h3{
+    text-align:start;
+    margin-bottom: 20px;
+}
+.brands img:hover{
+    background-color: black;
+}
+
+footer{
+    background-color: lightgray;
+}
+
+
+/*/ login page/*/
+
+
